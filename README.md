@@ -1,5 +1,5 @@
 # Vicinal
-detection of ncRNA ends using chimeric reads from RNA-seq data
+Detection of ncRNA ends using chimeric reads from RNA-seq data
 
 by Zhipeng Lu, UNC at Chapel Hill, NC 27517, USA
 2014-01-14
